@@ -1,5 +1,4 @@
-#  💪 Responsive Gym Website Design
-## [Watch it on youtube](https://youtu.be/ddaY0rHqMxM)
+
 ### 💪 Responsive Gym Website Design
 
 - Responsive Gym Website Design Using HTML CSS & JavaScript
